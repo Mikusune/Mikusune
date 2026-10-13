@@ -1,21 +1,55 @@
-# 💫 About Me:
-I’m currently working on 💻 Developing robust backend solutions using leading frameworks like Laravel and CodeIgniter, while actively expanding my skill set to include React Native and Next.js for full-stack capability.<br><br>I’m looking to collaborate on 🤝 Projects that require strong backend architecture (PHP/Python/Go) and offer experience in implementing complex DevOps or advanced Linux Server configurations.<br><br>I’m looking for help with 💛 Gaining professional experience in server-side rendering with Next.js and mastering advanced features in Flutter/React Native development.<br><br>I’m currently learning 💡 Advanced concepts in Next.js (Server-Side Rendering) and deepening my knowledge in Go (Golang) for building high-performance applications.<br><br>Ask me about 💬 Backend development using Laravel/Django/CI4, implementing financial compliance systems (e.g., PSAK 71), Linux Server administration, and Network configuration (Mikrotik/Cisco).<br><br>Fun fact ⚡ Before becoming a Software Developer, I participated in developing an Early Earthquake Warning System (EEWS) prototype and specialized in Computer Network Engineering.
+<a href="https://mury.my.id">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img alt="Tri Muryanto, full-stack developer with a network infrastructure background" src="assets/banner-light.svg" width="100%">
+  </picture>
+</a>
 
+I build web applications and look after the servers and networks they run on. I work as a full-stack developer at **PT Konsindo Inovatek Utama** in Depok, Indonesia, and came to software from network engineering, so I am as comfortable configuring Nginx or a MikroTik router as I am writing the app behind it.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/QXEn2gw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@tmuryanto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tri-muryanto-498a20276/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trimuryanto78@gmail.com) 
+My portfolio, with screenshots of everything below, is at **[mury.my.id](https://mury.my.id)**.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mikusune&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mikusune&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikusune&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## What I'm building at Konsindo
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mikusune&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+| Project | What it does | Built with |
+|---|---|---|
+| **[TENVIX](https://tenvixai.com)** | Helps contractors find procurement tenders. Crawlers collect tenders from dozens of regional LPSE sites, and users search them in plain language, like *"road tenders in West Java under 5 billion"*. | Next.js, FastAPI, Playwright, Supabase, Gemini |
+| **[AIRVLO Hydraulic Network](https://mury.my.id/#projects)** | Design and simulate water distribution networks in the browser, on par with EPANET Desktop: map drawing, hydraulic analysis, elevation profiles, cost estimates. | Next.js, OpenLayers, EPANET (WASM) |
+| **[LevTrax](https://mury.my.id/#projects)** | Real-time dashboard for ESP32 shrimp-pond auto-feeders: remaining feed, pH, dissolved oxygen and temperature, with alerts when a pond needs attention. | Node.js, MQTT, PostgreSQL, Socket.IO, React |
 
----
-[![](https://visitcount.itsvg.in/api?id=Mikusune&icon=0&color=0)](https://visitcount.itsvg.in)
+AIRVLO and LevTrax are internal tools, so their code is private.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Open source projects
+
+- **[Marketplace FreshStation](https://github.com/Mikusune/Marketplace_freshstation)**: my thesis project. A CodeIgniter 4 supermarket store with a REST API, admin portal and Midtrans payments, plus a **[React Native app](https://github.com/Mikusune/app_Marketplace_freshstation)** that uses the same API. [Live site](https://freshstationsupermarket.great-site.net/).
+- **[Listrik App](https://github.com/Mikusune/Laravel-Listrik-app)**: electricity bill payments in Laravel with Midtrans Snap, token generation and live transaction status.
+- **[FastAPI marketplace backend](https://github.com/Mikusune/backend_FastAPI_marketplace)**: CRUD API on Supabase Postgres and storage.
+
+## Experience
+
+| When | Role |
+|---|---|
+| Apr 2026 – now | **Full-Stack Developer**, PT Konsindo Inovatek Utama |
+| Aug – Nov 2024 | **Software Developer (intern)**, PT Pramatech Adimitra Solusi. Led the migration of a PSAK 109 accounting system from desktop to Laravel, moved SQL Server stored procedures to PostgreSQL, and automated IRR calculations in Python. |
+| Jul – Aug 2022 | **Electrical Engineering Intern**, PT Energi Sejahtera Agung. Built hardware for an earthquake early warning prototype on Raspberry Pi. |
+| Sep – Dec 2021 | **Network intern**, PT Bonet Utama, an ISP. LAN setup, static routing, proxy and firewall. |
+
+B.Sc. in Information Technology from Universitas Bina Sarana Informatika (GPA 3.96/4.00).
+
+## Tools I use
+
+| | Area | Tools |
+|---|---|---|
+| <img src="assets/strand-orange.svg" width="36" height="8" alt=""> | Languages | PHP, Python, Go, JavaScript, TypeScript, SQL |
+| <img src="assets/strand-blue.svg" width="36" height="8" alt=""> | Web | Laravel, Django, CodeIgniter, FastAPI, Express, React, Next.js |
+| <img src="assets/strand-white-blue.svg" width="36" height="8" alt=""> | Mobile | Flutter, React Native |
+| <img src="assets/strand-white-green.svg" width="36" height="8" alt=""> | IoT and real-time | MQTT, Socket.IO, ESP32 |
+| <img src="assets/strand-white-orange.svg" width="36" height="8" alt=""> | GIS, simulation and AI | OpenLayers, EPANET, Gemini |
+| <img src="assets/strand-brown.svg" width="36" height="8" alt=""> | Servers and networks | Linux (Ubuntu, CentOS), Nginx, Apache, VPS, MikroTik, Cisco |
+| <img src="assets/strand-green.svg" width="36" height="8" alt=""> | Data and tooling | MySQL, PostgreSQL, Supabase, Docker, Git, Postman, Midtrans |
+
+Certified: CCNA, MTCNA, Cisco Network Security, Certified Program Analyst (BNSP), TOEFL Prediction 563.
+
+## Get in touch
+
+Write to me at [trimuryanto78@gmail.com](mailto:trimuryanto78@gmail.com), or find me on [LinkedIn](https://www.linkedin.com/in/tri-muryanto-498a20276/), [Instagram](https://www.instagram.com/tmuryanto/) and [Discord](https://discord.gg/QXEn2gw).
