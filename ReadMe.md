@@ -13,7 +13,7 @@
 
 I build web apps end to end, and I also run the servers and networks underneath them. I started in network engineering (CCNA, MTCNA) before moving into software, so whatever I build also gets deployed, secured and kept online. Today I'm a full-stack developer at **PT Konsindo Inovatek Utama** in Depok, Indonesia.
 
-<img src="assets/facts.svg" width="100%" alt="3 apps in production at PT Konsindo Inovatek Utama, 4 companies, GPA 3.96 out of 4.00, 8 certifications including CCNA and MTCNA">
+<img src="assets/facts.svg" width="100%" alt="3 products built at PT Konsindo Inovatek Utama, 4 companies, GPA 3.96 out of 4.00, 8 certifications including CCNA and MTCNA">
 
 ## Selected work
 
