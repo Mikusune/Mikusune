@@ -5,51 +5,53 @@
   </picture>
 </a>
 
-I build web applications and look after the servers and networks they run on. I work as a full-stack developer at **PT Konsindo Inovatek Utama** in Depok, Indonesia, and came to software from network engineering, so I am as comfortable configuring Nginx or a MikroTik router as I am writing the app behind it.
+<p align="center">
+  <a href="https://mury.my.id"><img src="assets/btn-portfolio.svg" height="44" alt="See my portfolio"></a>
+  <a href="mailto:trimuryanto78@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email me"></a>
+  <a href="https://www.linkedin.com/in/tri-muryanto-498a20276/"><img src="assets/btn-linkedin.svg" height="44" alt="Connect on LinkedIn"></a>
+</p>
 
-My portfolio, with screenshots of everything below, is at **[mury.my.id](https://mury.my.id)**.
+I build web apps end to end, and I also run the servers and networks underneath them. I started in network engineering (CCNA, MTCNA) before moving into software, so whatever I build also gets deployed, secured and kept online. Today I'm a full-stack developer at **PT Konsindo Inovatek Utama** in Depok, Indonesia.
 
-## What I'm building at Konsindo
+<img src="assets/facts.svg" width="100%" alt="3 apps in production at PT Konsindo Inovatek Utama, 4 companies, GPA 3.96 out of 4.00, 8 certifications including CCNA and MTCNA">
 
-| Project | What it does | Built with |
-|---|---|---|
-| **[TENVIX](https://tenvixai.com)** | Helps contractors find procurement tenders. Crawlers collect tenders from dozens of regional LPSE sites, and users search them in plain language, like *"road tenders in West Java under 5 billion"*. | Next.js, FastAPI, Playwright, Supabase, Gemini |
-| **[AIRVLO Hydraulic Network](https://mury.my.id/#projects)** | Design and simulate water distribution networks in the browser, on par with EPANET Desktop: map drawing, hydraulic analysis, elevation profiles, cost estimates. | Next.js, OpenLayers, EPANET (WASM) |
-| **[LevTrax](https://mury.my.id/#projects)** | Real-time dashboard for ESP32 shrimp-pond auto-feeders: remaining feed, pH, dissolved oxygen and temperature, with alerts when a pond needs attention. | Node.js, MQTT, PostgreSQL, Socket.IO, React |
+## Selected work
 
-AIRVLO and LevTrax are internal tools, so their code is private.
+<p>
+  <a href="https://tenvixai.com"><img src="assets/card-tenvix.svg" width="49%" alt="TENVIX: AI tender search for contractors, fed by crawlers across dozens of LPSE sites. Live at tenvixai.com"></a>
+  <a href="https://mury.my.id/#projects"><img src="assets/card-airvlo.svg" width="49%" alt="AIRVLO: water network design and EPANET hydraulic simulation in the browser"></a>
+</p>
+<p>
+  <a href="https://mury.my.id/#projects"><img src="assets/card-levtrax.svg" width="49%" alt="LevTrax: real-time monitoring for ESP32 shrimp-pond auto-feeders"></a>
+  <a href="https://github.com/Mikusune/Marketplace_freshstation"><img src="assets/card-freshstation.svg" width="49%" alt="FreshStation: supermarket store with web, React Native app and Midtrans payments"></a>
+</p>
 
-## Open source projects
+TENVIX is live at [tenvixai.com](https://tenvixai.com). AIRVLO and LevTrax are internal tools, so you'll find their screenshots on [my portfolio](https://mury.my.id/#projects) rather than their code here. More open source: [FreshStation mobile app](https://github.com/Mikusune/app_Marketplace_freshstation) (React Native), [Listrik App](https://github.com/Mikusune/Laravel-Listrik-app) (Laravel, Midtrans Snap) and a [FastAPI marketplace backend](https://github.com/Mikusune/backend_FastAPI_marketplace) (Supabase).
 
-- **[Marketplace FreshStation](https://github.com/Mikusune/Marketplace_freshstation)**: my thesis project. A CodeIgniter 4 supermarket store with a REST API, admin portal and Midtrans payments, plus a **[React Native app](https://github.com/Mikusune/app_Marketplace_freshstation)** that uses the same API. [Live site](https://freshstationsupermarket.great-site.net/).
-- **[Listrik App](https://github.com/Mikusune/Laravel-Listrik-app)**: electricity bill payments in Laravel with Midtrans Snap, token generation and live transaction status.
-- **[FastAPI marketplace backend](https://github.com/Mikusune/backend_FastAPI_marketplace)**: CRUD API on Supabase Postgres and storage.
+## Tools I use
+
+<img src="assets/tools.svg" width="100%" alt="Languages: PHP, Python, Go, JavaScript, TypeScript, SQL. Web: Laravel, Django, CodeIgniter, FastAPI, Express, React, Next.js. Mobile: Flutter, React Native. IoT and real-time: MQTT, Socket.IO, ESP32. GIS, simulation, AI: OpenLayers, EPANET, Gemini. Servers and networks: Linux, Nginx, Apache, MikroTik, Cisco, Docker. Data and tooling: MySQL, PostgreSQL, Supabase, Git, GitHub, Postman.">
+
+Certified: CCNA, MTCNA, Cisco Network Security, Certified Program Analyst (BNSP), KKNI Level II Network Engineering, TOEFL Prediction 563.
 
 ## Experience
 
 | When | Role |
 |---|---|
-| Apr 2026 – now | **Full-Stack Developer**, PT Konsindo Inovatek Utama |
+| Apr 2026 – now | **Full-Stack Developer**, PT Konsindo Inovatek Utama. Building TENVIX, AIRVLO and LevTrax, and running their VPS, domains, databases and deployments. |
 | Aug – Nov 2024 | **Software Developer (intern)**, PT Pramatech Adimitra Solusi. Led the migration of a PSAK 109 accounting system from desktop to Laravel, moved SQL Server stored procedures to PostgreSQL, and automated IRR calculations in Python. |
 | Jul – Aug 2022 | **Electrical Engineering Intern**, PT Energi Sejahtera Agung. Built hardware for an earthquake early warning prototype on Raspberry Pi. |
 | Sep – Dec 2021 | **Network intern**, PT Bonet Utama, an ISP. LAN setup, static routing, proxy and firewall. |
 
-B.Sc. in Information Technology from Universitas Bina Sarana Informatika (GPA 3.96/4.00).
+B.Sc. in Information Technology, Universitas Bina Sarana Informatika, GPA 3.96/4.00.
 
-## Tools I use
+## Have a project in mind?
 
-| | Area | Tools |
-|---|---|---|
-| <img src="assets/strand-orange.svg" width="36" height="8" alt=""> | Languages | PHP, Python, Go, JavaScript, TypeScript, SQL |
-| <img src="assets/strand-blue.svg" width="36" height="8" alt=""> | Web | Laravel, Django, CodeIgniter, FastAPI, Express, React, Next.js |
-| <img src="assets/strand-white-blue.svg" width="36" height="8" alt=""> | Mobile | Flutter, React Native |
-| <img src="assets/strand-white-green.svg" width="36" height="8" alt=""> | IoT and real-time | MQTT, Socket.IO, ESP32 |
-| <img src="assets/strand-white-orange.svg" width="36" height="8" alt=""> | GIS, simulation and AI | OpenLayers, EPANET, Gemini |
-| <img src="assets/strand-brown.svg" width="36" height="8" alt=""> | Servers and networks | Linux (Ubuntu, CentOS), Nginx, Apache, VPS, MikroTik, Cisco |
-| <img src="assets/strand-green.svg" width="36" height="8" alt=""> | Data and tooling | MySQL, PostgreSQL, Supabase, Docker, Git, Postman, Midtrans |
+Tell me what you need built, or the server it has to run on. I work in Bahasa Indonesia and English.
 
-Certified: CCNA, MTCNA, Cisco Network Security, Certified Program Analyst (BNSP), TOEFL Prediction 563.
+<p>
+  <a href="mailto:trimuryanto78@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email me"></a>
+  <a href="https://www.linkedin.com/in/tri-muryanto-498a20276/"><img src="assets/btn-linkedin.svg" height="44" alt="Connect on LinkedIn"></a>
+</p>
 
-## Get in touch
-
-Write to me at [trimuryanto78@gmail.com](mailto:trimuryanto78@gmail.com), or find me on [LinkedIn](https://www.linkedin.com/in/tri-muryanto-498a20276/), [Instagram](https://www.instagram.com/tmuryanto/) and [Discord](https://discord.gg/QXEn2gw).
+Also on [Instagram](https://www.instagram.com/tmuryanto/) and [Discord](https://discord.gg/QXEn2gw).
